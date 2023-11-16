@@ -30,7 +30,7 @@ layout: default
 		</div>
 		<div class="card__body__title card__body__title--single">
 			<a class="" href="{{ page.url | prepend: site.data.content.url }}">
-				<h1>{{ page.title | replace: "'", "’" | downcase }}</h1>
+				<h1>{{ page.title | downcase | smartify }}</h1>
 			</a>
 		</div>
 		
