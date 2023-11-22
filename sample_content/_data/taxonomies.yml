@@ -1,24 +1,23 @@
 categories:
-    - title: Bitter
-      color: "#ED5345"
-    - title: Citrusy
-      color: "#FBEE30"
+    - title: Carne
+      color: "#5b4934"
+    - title: Peixe
+      color: "#5b4934"
     - title: Dairy
-      color: "#CEFF5C"
-    - title: Fruity
-      color: "#FC8BEF"
-    - title: Long
-      color: "#25CDD0"
-    - title: Spirit-forward
-      color: "#236EFB"
-    - title: Tiki
-      color: "#FF9827"
-    - title: Tropical
-      color: "#2CED61"
-techniques:
-    - Blend
-    - Dry Shake
-    - In glass
-    - Shake
-    - Stir
-    - Swizzle
+      color: "#5b4934"
+    - title: Massas
+      color: "#5b4934"
+    - title: Lanches
+      color: "#5b4934"
+    - title: Sopa
+      color: "#5b4934"
+    - title: Pão
+      color: "#5b4934"
+    - title: Doces
+      color: "#5b4934"
+    - title: Celíacos
+      color: "#5b4934"
+    - title: Vegetariana
+      color: "#5b4934"
+    - title: Vegano
+      color: "#5b4934"

@@ -1,21 +1,22 @@
-title: boozy bisou
-description: cocktail recipes collection
-meta-description: Explore hundreds of cocktail recipes, from tiki to bitter, dairy, long, citrusy, spirit-forward, fruity or tropical drinks.
-url: https://boozybisou.com
+title: Delícia Santana
+description: Receitas saudáveis, simples e deliciosa
+meta-description: Delicia Santana oferece receitas saudáveis, deliciosas para todos os gostos. Vegetariano, vegano ou carne descubra ótimos pratos e inspire-se na cozinha
+url: https://delicia-santana.com
 account-modal_content:
-    login_close: no thanks, back to the recipes...
-    login_title: login to...
+    login_close: Não, obrigado, de volta às receitas...
+    login_title: Logar em...
     signed-in_body: |-
-      <li>add recipes to your personal collection,</li>
-      <li>rate your favorites recipes,</li>
-      <li>sync your preferences between your devices,</li>
-      <li>try the true dark mode.</li>
-    signed-in_close: ok, back to the recipes!
-    signed-in_title: your are logged in, let's...
+      <li>Adicione receitas à sua coleção pessoal,</li>
+      <li>Avalie suas receitas favoritas,</li>
+      <li>Sincronizar conta com seus dispositivos,</li>
+      <li>Experimente o verdadeiro modo escuro.</li>
+    signed-in_close: Ok, de volta às receitas!
+    signed-in_title: Você está logado, vamos...
     login_body: |-
-      <li>add recipes to your personal collection,</li>
-      <li>rate your favorites recipes,</li>
-      <li>sync your preferences between your devices,</li>
-      <li>enable a true dark mode.</li>
+      <li>Adicione receitas à sua coleção pessoal,</li>
+      <li>Avalie suas receitas favoritas,</li>
+      <li>Sincronizar conta com seus dispositivos,</li>
+      <li>Ativar um modo escuro verdadeiro.</li>
     footer: |-
-      Powered by <a href="https://github.com/pfdt/bisou-jekyll-theme" target="_blank" rel="noopener" class="simple-link">bisous - jekyll theme</a>.
+      Distribuído por <a href="https://github.com/pfdt/bisou-jekyll-theme" target="_blank" rel="noopener" class="simple-link">bisous - jekyll theme</a>.
+      <li>graças ao pfdt <a href="https://github.com/pfdt/bisou-jekyll-theme" target="_blank" rel="noopener" class="simple-link">bisous - jekyll theme</a><li/>

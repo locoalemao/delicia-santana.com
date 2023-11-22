@@ -1,5 +1,5 @@
 google-analytics:
-    id: 
+    id: G-QFDNHFPJ70
 netlify-lm:
     img--card: ?nf_resize=smartcrop&w=600&h=465
     img--sharing: ?nf_resize=smartcrop&w=1200&h=630
@@ -7,6 +7,6 @@ netlify-lm:
     img--4x3: ?nf_resize=smartcrop&w=1200&h=900
     img--16x9: ?nf_resize=smartcrop&w=1200&h=675
 firebase: 
-    apiKey: 
-    projectId: 
-    dbName: 
+    apiKey: AIzaSyDRWAfPwANtP8sUn1HImzORFB7Ub9MzGfI
+    projectId: delicia-santana-website
+    dbName: https://delicia-santana-website.firebaseio.com
