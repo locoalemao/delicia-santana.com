@@ -1,6 +1,6 @@
 # delicia-santana.com
 
-This Jekyll theme is designed for creating a recipes website where you can browse, rate and save recipes. It is a fork of the original
+This Jekyll theme is designed for creating a recipes website where you can browse, rate and save recipes. It is a fork of pfdt's Jekyll theme
 and this customized version is tailored for Portuguese content.
 
 ## Features
@@ -13,7 +13,7 @@ and this customized version is tailored for Portuguese content.
 
 ## Credits
 
-[bisou Jekyll theme]([original_theme_link](https://github.com/pfdt/bisou-jekyll-theme))
+[bisou Jekyll theme](https://github.com/pfdt/bisou-jekyll-theme)
 
 ## License
 
